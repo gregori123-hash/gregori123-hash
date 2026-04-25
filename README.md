@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou o Gregori
-
 🎓 Estudante de Defesa Cibernética  
 🔐 Focado em Blue Team | SOC | Segurança de Redes  
 

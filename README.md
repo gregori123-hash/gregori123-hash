@@ -1,6 +1,5 @@
 ## 🚀 Sobre mim
 
-Atuo com cibersegurança voltada à defesa, monitoramento e análise de incidentes.  
-Tenho experiência prática com ambientes de laboratório, redes e SIEM.
+Atuo na área de cibersegurança com foco em defesa, monitoramento contínuo e resposta a incidentes. Possuo experiência prática em ambientes de laboratório, ambientes reais (produção), infraestrutura de redes e utilização de soluções SIEM.
 
-Também desenvolvo **ferramentas internas de segurança** para automação, análise e monitoramento.
+Além disso, desenvolvo ferramentas internas voltadas à automação de processos, análise de dados e fortalecimento do monitoramento de segurança.

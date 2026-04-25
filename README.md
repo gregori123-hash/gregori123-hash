@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gregori
 
-<!--
-**gregori123-hash/gregori123-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Defesa Cibernética  
+🔐 Focado em Blue Team | SOC | Segurança de Redes  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atuo com cibersegurança voltada à defesa, monitoramento e análise de incidentes.  
+Tenho experiência prática com ambientes de laboratório, redes e SIEM.
+
+Também desenvolvo **ferramentas internas de segurança** para automação e análise.
+
+🏆 Destaques:
+- ISC2 Certified in Cybersecurity (CC)
+- Experiência com Wazuh
+- Top 3 Brasil no CyberDefenders (labs práticos)
+
+---
+
+## 🛠️ Tecnologias
+
+- Wazuh (SIEM)
+- Redes (VLAN, roteamento)
+- Linux
+- Análise de logs
+- Bash / Python (básico)
+
+---
+
+## 🧪 Projetos
+
+- Laboratório SIEM (Wazuh)
+- Análise e monitoramento de rede
+- Writeups de CTF
+- Ferramentas internas de segurança
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (adicione aqui)
